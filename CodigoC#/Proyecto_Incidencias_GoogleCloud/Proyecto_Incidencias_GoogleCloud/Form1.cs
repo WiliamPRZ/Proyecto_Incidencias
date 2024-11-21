@@ -19,7 +19,7 @@ namespace Proyecto_Incidencias_GoogleCloud
 
         private void btnInicio_Click(object sender, EventArgs e)
         {
-            administrador admin = new administrador();
+            usuario admin = new usuario();
 
             string usuario = txtusuario.Text.ToString();
             string contra = txtcontra.Text;

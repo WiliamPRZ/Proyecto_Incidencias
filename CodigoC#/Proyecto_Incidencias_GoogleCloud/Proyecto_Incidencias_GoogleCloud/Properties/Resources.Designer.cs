@@ -63,6 +63,16 @@ namespace Proyecto_Incidencias_GoogleCloud.Properties {
         /// <summary>
         ///   Busca un recurso adaptado de tipo System.Drawing.Bitmap.
         /// </summary>
+        internal static System.Drawing.Bitmap _0_r4wOvRFGy78MfMh4_1024x576 {
+            get {
+                object obj = ResourceManager.GetObject("0_r4wOvRFGy78MfMh4-1024x576", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+        /// </summary>
         internal static System.Drawing.Bitmap google_cloud_logo_icon_159333 {
             get {
                 object obj = ResourceManager.GetObject("google_cloud_logo_icon_159333", resourceCulture);
@@ -76,6 +86,16 @@ namespace Proyecto_Incidencias_GoogleCloud.Properties {
         internal static System.Drawing.Bitmap google_cloud_logo_icon_1593331 {
             get {
                 object obj = ResourceManager.GetObject("google_cloud_logo_icon_1593331", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap perfil {
+            get {
+                object obj = ResourceManager.GetObject("perfil", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }

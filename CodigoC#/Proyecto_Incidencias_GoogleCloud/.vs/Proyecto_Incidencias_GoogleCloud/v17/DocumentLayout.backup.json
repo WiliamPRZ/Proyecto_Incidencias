@@ -3,19 +3,31 @@
   "WorkspaceRootPath": "C:\\Users\\Wiliam\\Desktop\\Escritorio\\Proyecto_Incidencias\\CodigoC#\\Proyecto_Incidencias_GoogleCloud\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{38046DCB-5A93-4174-ACA1-E17D811F0372}|Proyecto_Incidencias_GoogleCloud\\Proyecto_Incidencias_GoogleCloud.csproj|c:\\users\\wiliam\\desktop\\escritorio\\proyecto_incidencias\\codigoc#\\proyecto_incidencias_googlecloud\\proyecto_incidencias_googlecloud\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{38046DCB-5A93-4174-ACA1-E17D811F0372}|Proyecto_Incidencias_GoogleCloud\\Proyecto_Incidencias_GoogleCloud.csproj|c:\\users\\wiliam\\desktop\\escritorio\\proyecto_incidencias\\codigoc#\\proyecto_incidencias_googlecloud\\proyecto_incidencias_googlecloud\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{38046DCB-5A93-4174-ACA1-E17D811F0372}|Proyecto_Incidencias_GoogleCloud\\Proyecto_Incidencias_GoogleCloud.csproj|solutionrelative:proyecto_incidencias_googlecloud\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38046DCB-5A93-4174-ACA1-E17D811F0372}|Proyecto_Incidencias_GoogleCloud\\Proyecto_Incidencias_GoogleCloud.csproj|C:\\Users\\Wiliam\\Desktop\\Escritorio\\Proyecto_Incidencias\\CodigoC#\\Proyecto_Incidencias_GoogleCloud\\proyecto_incidencias_googlecloud\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{38046DCB-5A93-4174-ACA1-E17D811F0372}|Proyecto_Incidencias_GoogleCloud\\Proyecto_Incidencias_GoogleCloud.csproj|solutionrelative:proyecto_incidencias_googlecloud\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{38046DCB-5A93-4174-ACA1-E17D811F0372}|Proyecto_Incidencias_GoogleCloud\\Proyecto_Incidencias_GoogleCloud.csproj|c:\\users\\wiliam\\desktop\\escritorio\\proyecto_incidencias\\codigoc#\\proyecto_incidencias_googlecloud\\proyecto_incidencias_googlecloud\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{38046DCB-5A93-4174-ACA1-E17D811F0372}|Proyecto_Incidencias_GoogleCloud\\Proyecto_Incidencias_GoogleCloud.csproj|C:\\Users\\Wiliam\\Desktop\\Escritorio\\Proyecto_Incidencias\\CodigoC#\\Proyecto_Incidencias_GoogleCloud\\proyecto_incidencias_googlecloud\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{38046DCB-5A93-4174-ACA1-E17D811F0372}|Proyecto_Incidencias_GoogleCloud\\Proyecto_Incidencias_GoogleCloud.csproj|solutionrelative:proyecto_incidencias_googlecloud\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38046DCB-5A93-4174-ACA1-E17D811F0372}|Proyecto_Incidencias_GoogleCloud\\Proyecto_Incidencias_GoogleCloud.csproj|c:\\users\\wiliam\\desktop\\escritorio\\proyecto_incidencias\\codigoc#\\proyecto_incidencias_googlecloud\\proyecto_incidencias_googlecloud\\agregarincidencia.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{38046DCB-5A93-4174-ACA1-E17D811F0372}|Proyecto_Incidencias_GoogleCloud\\Proyecto_Incidencias_GoogleCloud.csproj|solutionrelative:proyecto_incidencias_googlecloud\\agregarincidencia.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38046DCB-5A93-4174-ACA1-E17D811F0372}|Proyecto_Incidencias_GoogleCloud\\Proyecto_Incidencias_GoogleCloud.csproj|c:\\users\\wiliam\\desktop\\escritorio\\proyecto_incidencias\\codigoc#\\proyecto_incidencias_googlecloud\\proyecto_incidencias_googlecloud\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{38046DCB-5A93-4174-ACA1-E17D811F0372}|Proyecto_Incidencias_GoogleCloud\\Proyecto_Incidencias_GoogleCloud.csproj|solutionrelative:proyecto_incidencias_googlecloud\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{38046DCB-5A93-4174-ACA1-E17D811F0372}|Proyecto_Incidencias_GoogleCloud\\Proyecto_Incidencias_GoogleCloud.csproj|c:\\users\\wiliam\\desktop\\escritorio\\proyecto_incidencias\\codigoc#\\proyecto_incidencias_googlecloud\\proyecto_incidencias_googlecloud\\administrador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{38046DCB-5A93-4174-ACA1-E17D811F0372}|Proyecto_Incidencias_GoogleCloud\\Proyecto_Incidencias_GoogleCloud.csproj|solutionrelative:proyecto_incidencias_googlecloud\\administrador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{38046DCB-5A93-4174-ACA1-E17D811F0372}|Proyecto_Incidencias_GoogleCloud\\Proyecto_Incidencias_GoogleCloud.csproj|c:\\users\\wiliam\\desktop\\escritorio\\proyecto_incidencias\\codigoc#\\proyecto_incidencias_googlecloud\\proyecto_incidencias_googlecloud\\administrador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{38046DCB-5A93-4174-ACA1-E17D811F0372}|Proyecto_Incidencias_GoogleCloud\\Proyecto_Incidencias_GoogleCloud.csproj|C:\\Users\\Wiliam\\Desktop\\Escritorio\\Proyecto_Incidencias\\CodigoC#\\Proyecto_Incidencias_GoogleCloud\\proyecto_incidencias_googlecloud\\administrador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{38046DCB-5A93-4174-ACA1-E17D811F0372}|Proyecto_Incidencias_GoogleCloud\\Proyecto_Incidencias_GoogleCloud.csproj|solutionrelative:proyecto_incidencias_googlecloud\\administrador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -30,7 +42,7 @@
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Form1.cs [Dise\u00F1o]",
               "DocumentMoniker": "C:\\Users\\Wiliam\\Desktop\\Escritorio\\Proyecto_Incidencias\\CodigoC#\\Proyecto_Incidencias_GoogleCloud\\Proyecto_Incidencias_GoogleCloud\\Form1.cs",
               "RelativeDocumentMoniker": "Proyecto_Incidencias_GoogleCloud\\Form1.cs",
@@ -44,11 +56,48 @@
             {
               "$type": "Document",
               "DocumentIndex": 3,
+              "Title": "agregarIncidencia.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Wiliam\\Desktop\\Escritorio\\Proyecto_Incidencias\\CodigoC#\\Proyecto_Incidencias_GoogleCloud\\Proyecto_Incidencias_GoogleCloud\\agregarIncidencia.cs",
+              "RelativeDocumentMoniker": "Proyecto_Incidencias_GoogleCloud\\agregarIncidencia.cs",
+              "ToolTip": "C:\\Users\\Wiliam\\Desktop\\Escritorio\\Proyecto_Incidencias\\CodigoC#\\Proyecto_Incidencias_GoogleCloud\\Proyecto_Incidencias_GoogleCloud\\agregarIncidencia.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Proyecto_Incidencias_GoogleCloud\\agregarIncidencia.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-21T05:06:18.126Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "usuario.cs",
+              "DocumentMoniker": "C:\\Users\\Wiliam\\Desktop\\Escritorio\\Proyecto_Incidencias\\CodigoC#\\Proyecto_Incidencias_GoogleCloud\\Proyecto_Incidencias_GoogleCloud\\usuario.cs",
+              "RelativeDocumentMoniker": "Proyecto_Incidencias_GoogleCloud\\usuario.cs",
+              "ToolTip": "C:\\Users\\Wiliam\\Desktop\\Escritorio\\Proyecto_Incidencias\\CodigoC#\\Proyecto_Incidencias_GoogleCloud\\Proyecto_Incidencias_GoogleCloud\\usuario.cs",
+              "RelativeToolTip": "Proyecto_Incidencias_GoogleCloud\\usuario.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAADwvxIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-21T04:35:55.115Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "usuario.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Wiliam\\Desktop\\Escritorio\\Proyecto_Incidencias\\CodigoC#\\Proyecto_Incidencias_GoogleCloud\\Proyecto_Incidencias_GoogleCloud\\usuario.cs",
+              "RelativeDocumentMoniker": "Proyecto_Incidencias_GoogleCloud\\usuario.cs",
+              "ToolTip": "C:\\Users\\Wiliam\\Desktop\\Escritorio\\Proyecto_Incidencias\\CodigoC#\\Proyecto_Incidencias_GoogleCloud\\Proyecto_Incidencias_GoogleCloud\\usuario.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Proyecto_Incidencias_GoogleCloud\\usuario.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-21T04:16:09.26Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
               "Title": "administrador.cs",
               "DocumentMoniker": "C:\\Users\\Wiliam\\Desktop\\Escritorio\\Proyecto_Incidencias\\CodigoC#\\Proyecto_Incidencias_GoogleCloud\\Proyecto_Incidencias_GoogleCloud\\administrador.cs",
               "RelativeDocumentMoniker": "Proyecto_Incidencias_GoogleCloud\\administrador.cs",
-              "ToolTip": "C:\\Users\\Wiliam\\Desktop\\Escritorio\\Proyecto_Incidencias\\CodigoC#\\Proyecto_Incidencias_GoogleCloud\\Proyecto_Incidencias_GoogleCloud\\administrador.cs*",
-              "RelativeToolTip": "Proyecto_Incidencias_GoogleCloud\\administrador.cs*",
+              "ToolTip": "C:\\Users\\Wiliam\\Desktop\\Escritorio\\Proyecto_Incidencias\\CodigoC#\\Proyecto_Incidencias_GoogleCloud\\Proyecto_Incidencias_GoogleCloud\\administrador.cs",
+              "RelativeToolTip": "Proyecto_Incidencias_GoogleCloud\\administrador.cs",
               "ViewState": "AgIAAAEAAAAAAAAAAAAiwBIAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-20T23:46:02.531Z",
@@ -56,25 +105,25 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 5,
               "Title": "administrador.cs [Dise\u00F1o]",
               "DocumentMoniker": "C:\\Users\\Wiliam\\Desktop\\Escritorio\\Proyecto_Incidencias\\CodigoC#\\Proyecto_Incidencias_GoogleCloud\\Proyecto_Incidencias_GoogleCloud\\administrador.cs",
               "RelativeDocumentMoniker": "Proyecto_Incidencias_GoogleCloud\\administrador.cs",
-              "ToolTip": "C:\\Users\\Wiliam\\Desktop\\Escritorio\\Proyecto_Incidencias\\CodigoC#\\Proyecto_Incidencias_GoogleCloud\\Proyecto_Incidencias_GoogleCloud\\administrador.cs [Dise\u00F1o]*",
-              "RelativeToolTip": "Proyecto_Incidencias_GoogleCloud\\administrador.cs [Dise\u00F1o]*",
+              "ToolTip": "C:\\Users\\Wiliam\\Desktop\\Escritorio\\Proyecto_Incidencias\\CodigoC#\\Proyecto_Incidencias_GoogleCloud\\Proyecto_Incidencias_GoogleCloud\\administrador.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Proyecto_Incidencias_GoogleCloud\\administrador.cs [Dise\u00F1o]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-20T23:44:57.042Z",
               "EditorCaption": " [Dise\u00F1o]"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Form1.cs",
               "DocumentMoniker": "C:\\Users\\Wiliam\\Desktop\\Escritorio\\Proyecto_Incidencias\\CodigoC#\\Proyecto_Incidencias_GoogleCloud\\Proyecto_Incidencias_GoogleCloud\\Form1.cs",
               "RelativeDocumentMoniker": "Proyecto_Incidencias_GoogleCloud\\Form1.cs",
               "ToolTip": "C:\\Users\\Wiliam\\Desktop\\Escritorio\\Proyecto_Incidencias\\CodigoC#\\Proyecto_Incidencias_GoogleCloud\\Proyecto_Incidencias_GoogleCloud\\Form1.cs",
               "RelativeToolTip": "Proyecto_Incidencias_GoogleCloud\\Form1.cs",
-              "ViewState": "AgIAAAwAAAAAAAAAAAAswBkAAAAZAAAAAAAAAA==",
+              "ViewState": "AgIAAAwAAAAAAAAAAAA6wBUAAAAnAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-20T23:42:11.766Z",
               "EditorCaption": ""

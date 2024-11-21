@@ -1,0 +1,187 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Wiliam\\Desktop\\Escritorio\\Proyecto_Incidencias\\Proyecto\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{031C9176-9303-4087-A83F-A95B134DB1CD}|Ventanas\\Ventanas.csproj|c:\\users\\wiliam\\desktop\\escritorio\\proyecto_incidencias\\proyecto\\ventanas\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{031C9176-9303-4087-A83F-A95B134DB1CD}|Ventanas\\Ventanas.csproj|solutionrelative:ventanas\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{031C9176-9303-4087-A83F-A95B134DB1CD}|Ventanas\\Ventanas.csproj|c:\\users\\wiliam\\desktop\\escritorio\\proyecto_incidencias\\proyecto\\ventanas\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{031C9176-9303-4087-A83F-A95B134DB1CD}|Ventanas\\Ventanas.csproj|solutionrelative:ventanas\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{031C9176-9303-4087-A83F-A95B134DB1CD}|Ventanas\\Ventanas.csproj|c:\\users\\wiliam\\desktop\\escritorio\\proyecto_incidencias\\proyecto\\ventanas\\agregarincidencia.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{031C9176-9303-4087-A83F-A95B134DB1CD}|Ventanas\\Ventanas.csproj|solutionrelative:ventanas\\agregarincidencia.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{031C9176-9303-4087-A83F-A95B134DB1CD}|Ventanas\\Ventanas.csproj|c:\\users\\wiliam\\desktop\\escritorio\\proyecto_incidencias\\proyecto\\ventanas\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{031C9176-9303-4087-A83F-A95B134DB1CD}|Ventanas\\Ventanas.csproj|solutionrelative:ventanas\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{031C9176-9303-4087-A83F-A95B134DB1CD}|Ventanas\\Ventanas.csproj|c:\\users\\wiliam\\desktop\\escritorio\\proyecto_incidencias\\proyecto\\ventanas\\agregarincidencia.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{031C9176-9303-4087-A83F-A95B134DB1CD}|Ventanas\\Ventanas.csproj|solutionrelative:ventanas\\agregarincidencia.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{031C9176-9303-4087-A83F-A95B134DB1CD}|Ventanas\\Ventanas.csproj|c:\\users\\wiliam\\desktop\\escritorio\\proyecto_incidencias\\proyecto\\ventanas\\agregarincidencia.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{031C9176-9303-4087-A83F-A95B134DB1CD}|Ventanas\\Ventanas.csproj|solutionrelative:ventanas\\agregarincidencia.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{031C9176-9303-4087-A83F-A95B134DB1CD}|Ventanas\\Ventanas.csproj|c:\\users\\wiliam\\desktop\\escritorio\\proyecto_incidencias\\proyecto\\ventanas\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{031C9176-9303-4087-A83F-A95B134DB1CD}|Ventanas\\Ventanas.csproj|solutionrelative:ventanas\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{031C9176-9303-4087-A83F-A95B134DB1CD}|Ventanas\\Ventanas.csproj|c:\\users\\wiliam\\desktop\\escritorio\\proyecto_incidencias\\proyecto\\ventanas\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{031C9176-9303-4087-A83F-A95B134DB1CD}|Ventanas\\Ventanas.csproj|solutionrelative:ventanas\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{031C9176-9303-4087-A83F-A95B134DB1CD}|Ventanas\\Ventanas.csproj|c:\\users\\wiliam\\desktop\\escritorio\\proyecto_incidencias\\proyecto\\ventanas\\usuario.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{031C9176-9303-4087-A83F-A95B134DB1CD}|Ventanas\\Ventanas.csproj|solutionrelative:ventanas\\usuario.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{031C9176-9303-4087-A83F-A95B134DB1CD}|Ventanas\\Ventanas.csproj|c:\\users\\wiliam\\desktop\\escritorio\\proyecto_incidencias\\proyecto\\ventanas\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{031C9176-9303-4087-A83F-A95B134DB1CD}|Ventanas\\Ventanas.csproj|solutionrelative:ventanas\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Wiliam\\Desktop\\Escritorio\\Proyecto_Incidencias\\Proyecto\\Ventanas\\Program.cs",
+              "RelativeDocumentMoniker": "Ventanas\\Program.cs",
+              "ToolTip": "C:\\Users\\Wiliam\\Desktop\\Escritorio\\Proyecto_Incidencias\\Proyecto\\Ventanas\\Program.cs",
+              "RelativeToolTip": "Ventanas\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-21T21:22:35.801Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "agregarIncidencia.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Wiliam\\Desktop\\Escritorio\\Proyecto_Incidencias\\Proyecto\\Ventanas\\agregarIncidencia.Designer.cs",
+              "RelativeDocumentMoniker": "Ventanas\\agregarIncidencia.Designer.cs",
+              "ToolTip": "C:\\Users\\Wiliam\\Desktop\\Escritorio\\Proyecto_Incidencias\\Proyecto\\Ventanas\\agregarIncidencia.Designer.cs",
+              "RelativeToolTip": "Ventanas\\agregarIncidencia.Designer.cs",
+              "ViewState": "AgIAAEoAAAAAAAAAAAAwwGcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-21T21:16:52.544Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "agregarIncidencia.cs",
+              "DocumentMoniker": "C:\\Users\\Wiliam\\Desktop\\Escritorio\\Proyecto_Incidencias\\Proyecto\\Ventanas\\agregarIncidencia.cs",
+              "RelativeDocumentMoniker": "Ventanas\\agregarIncidencia.cs",
+              "ToolTip": "C:\\Users\\Wiliam\\Desktop\\Escritorio\\Proyecto_Incidencias\\Proyecto\\Ventanas\\agregarIncidencia.cs",
+              "RelativeToolTip": "Ventanas\\agregarIncidencia.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAgwBIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-21T21:16:45.938Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "agregarIncidencia.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Wiliam\\Desktop\\Escritorio\\Proyecto_Incidencias\\Proyecto\\Ventanas\\agregarIncidencia.cs",
+              "RelativeDocumentMoniker": "Ventanas\\agregarIncidencia.cs",
+              "ToolTip": "C:\\Users\\Wiliam\\Desktop\\Escritorio\\Proyecto_Incidencias\\Proyecto\\Ventanas\\agregarIncidencia.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Ventanas\\agregarIncidencia.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-21T21:16:44.021Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Wiliam\\Desktop\\Escritorio\\Proyecto_Incidencias\\Proyecto\\Ventanas\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "Ventanas\\Form1.Designer.cs",
+              "ToolTip": "C:\\Users\\Wiliam\\Desktop\\Escritorio\\Proyecto_Incidencias\\Proyecto\\Ventanas\\Form1.Designer.cs",
+              "RelativeToolTip": "Ventanas\\Form1.Designer.cs",
+              "ViewState": "AgIAAJYAAAAAAAAAAAAgwLIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-21T21:13:39.743Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form1.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Wiliam\\Desktop\\Escritorio\\Proyecto_Incidencias\\Proyecto\\Ventanas\\Form1.cs",
+              "RelativeDocumentMoniker": "Ventanas\\Form1.cs",
+              "ToolTip": "C:\\Users\\Wiliam\\Desktop\\Escritorio\\Proyecto_Incidencias\\Proyecto\\Ventanas\\Form1.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Ventanas\\Form1.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-21T21:04:41.395Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\Wiliam\\Desktop\\Escritorio\\Proyecto_Incidencias\\Proyecto\\Ventanas\\Form1.cs",
+              "RelativeDocumentMoniker": "Ventanas\\Form1.cs",
+              "ToolTip": "C:\\Users\\Wiliam\\Desktop\\Escritorio\\Proyecto_Incidencias\\Proyecto\\Ventanas\\Form1.cs",
+              "RelativeToolTip": "Ventanas\\Form1.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAiwBIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-21T21:13:32.107Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "usuario.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Wiliam\\Desktop\\Escritorio\\Proyecto_Incidencias\\Proyecto\\Ventanas\\usuario.cs",
+              "RelativeDocumentMoniker": "Ventanas\\usuario.cs",
+              "ToolTip": "C:\\Users\\Wiliam\\Desktop\\Escritorio\\Proyecto_Incidencias\\Proyecto\\Ventanas\\usuario.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Ventanas\\usuario.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-21T21:06:09.563Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "usuario.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Wiliam\\Desktop\\Escritorio\\Proyecto_Incidencias\\Proyecto\\Ventanas\\usuario.Designer.cs",
+              "RelativeDocumentMoniker": "Ventanas\\usuario.Designer.cs",
+              "ToolTip": "C:\\Users\\Wiliam\\Desktop\\Escritorio\\Proyecto_Incidencias\\Proyecto\\Ventanas\\usuario.Designer.cs",
+              "RelativeToolTip": "Ventanas\\usuario.Designer.cs",
+              "ViewState": "AgIAAMwAAAAAAAAAAAAowNcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-21T21:13:13.525Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "usuario.cs",
+              "DocumentMoniker": "C:\\Users\\Wiliam\\Desktop\\Escritorio\\Proyecto_Incidencias\\Proyecto\\Ventanas\\usuario.cs",
+              "RelativeDocumentMoniker": "Ventanas\\usuario.cs",
+              "ToolTip": "C:\\Users\\Wiliam\\Desktop\\Escritorio\\Proyecto_Incidencias\\Proyecto\\Ventanas\\usuario.cs",
+              "RelativeToolTip": "Ventanas\\usuario.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAADwvxIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-21T21:11:54.654Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

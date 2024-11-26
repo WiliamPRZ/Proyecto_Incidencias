@@ -7,23 +7,14 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
-using Clases;
-
 
 namespace Ventanas
 {
-    public partial class agregarIncidencia : Form
+    public partial class consInd : Form
     {
-
-        public agregarIncidencia()
+        public consInd()
         {
             InitializeComponent();
-        }
-
-        private void btnAgregar_Click(object sender, EventArgs e)
-        {
-            Comentario comen = new Comentario();
-
         }
     }
 }

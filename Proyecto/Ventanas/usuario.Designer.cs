@@ -30,9 +30,9 @@
         {
             System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(usuario));
             this.panel1 = new System.Windows.Forms.Panel();
+            this.btnCerrar = new System.Windows.Forms.Button();
             this.btnConsulta = new System.Windows.Forms.Button();
             this.btnAgregarIncidencia = new System.Windows.Forms.Button();
-            this.btnCerrar = new System.Windows.Forms.Button();
             this.label1 = new System.Windows.Forms.Label();
             this.label2 = new System.Windows.Forms.Label();
             this.label3 = new System.Windows.Forms.Label();
@@ -59,6 +59,17 @@
             this.panel1.Size = new System.Drawing.Size(301, 641);
             this.panel1.TabIndex = 0;
             // 
+            // btnCerrar
+            // 
+            this.btnCerrar.BackColor = System.Drawing.Color.White;
+            this.btnCerrar.Font = new System.Drawing.Font("Arial Narrow", 15.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.btnCerrar.Location = new System.Drawing.Point(64, 458);
+            this.btnCerrar.Name = "btnCerrar";
+            this.btnCerrar.Size = new System.Drawing.Size(155, 67);
+            this.btnCerrar.TabIndex = 3;
+            this.btnCerrar.Text = "Cerrar Sesion";
+            this.btnCerrar.UseVisualStyleBackColor = false;
+            // 
             // btnConsulta
             // 
             this.btnConsulta.BackColor = System.Drawing.Color.White;
@@ -80,17 +91,6 @@
             this.btnAgregarIncidencia.TabIndex = 0;
             this.btnAgregarIncidencia.Text = "Agregar Incidencia";
             this.btnAgregarIncidencia.UseVisualStyleBackColor = false;
-            // 
-            // btnCerrar
-            // 
-            this.btnCerrar.BackColor = System.Drawing.Color.White;
-            this.btnCerrar.Font = new System.Drawing.Font("Arial Narrow", 15.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.btnCerrar.Location = new System.Drawing.Point(64, 458);
-            this.btnCerrar.Name = "btnCerrar";
-            this.btnCerrar.Size = new System.Drawing.Size(155, 67);
-            this.btnCerrar.TabIndex = 3;
-            this.btnCerrar.Text = "Cerrar Sesion";
-            this.btnCerrar.UseVisualStyleBackColor = false;
             // 
             // label1
             // 

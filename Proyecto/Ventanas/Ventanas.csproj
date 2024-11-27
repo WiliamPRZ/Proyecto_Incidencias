@@ -52,17 +52,29 @@
     <Compile Include="administrador.Designer.cs">
       <DependentUpon>administrador.cs</DependentUpon>
     </Compile>
+    <Compile Include="aggComentario.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="aggComentario.Designer.cs">
+      <DependentUpon>aggComentario.cs</DependentUpon>
+    </Compile>
     <Compile Include="agregarIncidencia.cs">
       <SubType>Form</SubType>
     </Compile>
     <Compile Include="agregarIncidencia.Designer.cs">
       <DependentUpon>agregarIncidencia.cs</DependentUpon>
     </Compile>
-    <Compile Include="consInd.cs">
+    <Compile Include="asignarTecnico.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="consInd.Designer.cs">
-      <DependentUpon>consInd.cs</DependentUpon>
+    <Compile Include="asignarTecnico.Designer.cs">
+      <DependentUpon>asignarTecnico.cs</DependentUpon>
+    </Compile>
+    <Compile Include="cambiar_estado.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="cambiar_estado.Designer.cs">
+      <DependentUpon>cambiar_estado.cs</DependentUpon>
     </Compile>
     <Compile Include="consultarIncidencia.cs">
       <SubType>Form</SubType>
@@ -96,17 +108,35 @@
     <Compile Include="usuario.Designer.cs">
       <DependentUpon>usuario.cs</DependentUpon>
     </Compile>
+    <Compile Include="verComentario.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="verComentario.Designer.cs">
+      <DependentUpon>verComentario.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="administrador.resx">
+      <DependentUpon>administrador.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="aggComentario.resx">
+      <DependentUpon>aggComentario.cs</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="agregarIncidencia.resx">
       <DependentUpon>agregarIncidencia.cs</DependentUpon>
     </EmbeddedResource>
-    <EmbeddedResource Include="consInd.resx">
-      <DependentUpon>consInd.cs</DependentUpon>
+    <EmbeddedResource Include="asignarTecnico.resx">
+      <DependentUpon>asignarTecnico.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="cambiar_estado.resx">
+      <DependentUpon>cambiar_estado.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="consultarIncidencia.resx">
       <DependentUpon>consultarIncidencia.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Form1.resx">
       <DependentUpon>Form1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="historial.resx">
+      <DependentUpon>historial.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Properties\Resources.resx">
       <Generator>ResXFileCodeGenerator</Generator>
@@ -118,8 +148,14 @@
       <DependentUpon>Resources.resx</DependentUpon>
       <DesignTime>True</DesignTime>
     </Compile>
+    <EmbeddedResource Include="tecnico.resx">
+      <DependentUpon>tecnico.cs</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="usuario.resx">
       <DependentUpon>usuario.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="verComentario.resx">
+      <DependentUpon>verComentario.cs</DependentUpon>
     </EmbeddedResource>
     <None Include="Properties\Settings.settings">
       <Generator>SettingsSingleFileGenerator</Generator>

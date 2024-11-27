@@ -1,0 +1,6 @@
+C:\Users\Wiliam\Desktop\Escritorio\Proyecto_Incidencias\Proyecto\Clases\bin\Debug\Clases.dll
+C:\Users\Wiliam\Desktop\Escritorio\Proyecto_Incidencias\Proyecto\Clases\bin\Debug\Clases.pdb
+C:\Users\Wiliam\Desktop\Escritorio\Proyecto_Incidencias\Proyecto\Clases\obj\Debug\Clases.csproj.AssemblyReference.cache
+C:\Users\Wiliam\Desktop\Escritorio\Proyecto_Incidencias\Proyecto\Clases\obj\Debug\Clases.csproj.CoreCompileInputs.cache
+C:\Users\Wiliam\Desktop\Escritorio\Proyecto_Incidencias\Proyecto\Clases\obj\Debug\Clases.dll
+C:\Users\Wiliam\Desktop\Escritorio\Proyecto_Incidencias\Proyecto\Clases\obj\Debug\Clases.pdb

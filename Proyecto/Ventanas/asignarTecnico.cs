@@ -10,9 +10,9 @@ using System.Windows.Forms;
 
 namespace Ventanas
 {
-    public partial class consInd : Form
+    public partial class asignarTecnico : Form
     {
-        public consInd()
+        public asignarTecnico()
         {
             InitializeComponent();
         }

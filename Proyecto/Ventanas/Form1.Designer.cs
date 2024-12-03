@@ -63,7 +63,6 @@ namespace Ventanas
             this.txtcontra.Name = "txtcontra";
             this.txtcontra.Size = new System.Drawing.Size(359, 41);
             this.txtcontra.TabIndex = 1;
-            this.txtcontra.KeyPress += new System.Windows.Forms.KeyPressEventHandler(this.txtcontra_KeyPress);
             // 
             // lblusuario
             // 
@@ -153,16 +152,6 @@ namespace Ventanas
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).EndInit();
             this.ResumeLayout(false);
 
-        }
-
-        private void btnInicio_Click(object sender, EventArgs e)
-        {
-            throw new NotImplementedException();
-        }
-
-        private void txtcontra_KeyPress(object sender, KeyPressEventArgs e)
-        {
-            throw new NotImplementedException();
         }
 
         #endregion

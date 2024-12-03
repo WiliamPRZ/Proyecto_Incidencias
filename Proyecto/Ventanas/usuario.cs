@@ -17,5 +17,12 @@ namespace Ventanas
             InitializeComponent();
         }
 
+        private void btnCerrar_Click(object sender, EventArgs e)
+        {
+            Form1 inicio = new Form1();
+
+            inicio.ShowDialog();
+            this.Close();
+        }
     }
 }

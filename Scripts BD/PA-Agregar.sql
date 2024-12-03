@@ -1,5 +1,16 @@
+use incidencias;
 
 -- PROCEDIMIENTO ALMACENADOS
+go
+CREATE PROCEDURE InicioSesion
+    @idUsuario INT
+AS
+BEGIN
+Select id_usuario, nom_usuario, correo, fecha_registro, id_tpUsuario
+from Usuario u
+where u.id_usuario = @idUsuario
+
+END;
 
 go
 CREATE PROCEDURE InsertarIncidencia

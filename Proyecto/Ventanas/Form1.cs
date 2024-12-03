@@ -7,6 +7,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
+using Datos;
 
 namespace Ventanas
 {
@@ -17,5 +18,16 @@ namespace Ventanas
             InitializeComponent();
         }
 
+        private void btnInicio_Click(object sender, EventArgs e)
+        {
+            if (String.IsNullOrEmpty(txtcontra.Text) || String.IsNullOrEmpty(txtusuario.Text))
+            {
+                MessageBox.Show("Algunos de los campos se encuentra vacio.");
+            }
+            else
+            {
+                
+            }
+        }
     }
 }
